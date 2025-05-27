@@ -1,4 +1,4 @@
-#  Hava Durumu Uygulaması 
+```#  Hava Durumu Uygulaması 
 Python ve Tkinter kullanarak geliştirilmiş gelişmiş bir masaüstü hava durumu uygulamasıdır.  
 OpenWeatherMap API’si üzerinden gerçek zamanlı ve doğru hava durumu verileri getirir.  
 Modern, karanlık (dark mode) tasarım ve kullanımı kolay şehir arama öneri sistemi içerir.
@@ -17,7 +17,7 @@ Modern, karanlık (dark mode) tasarım ve kullanımı kolay şehir arama öneri 
   - Büyük, yüksek çözünürlüklü hava durumu ikonu
 - Arama geçmişi listesi ile hızlı erişim
 - Tamamen koyu tema (Dark Mode) ve modern kullanıcı arayüzü
-- Klavye ve fare ile kullanım kolaylığı (Enter ile arama, önerilerde seçim)
+- Klavye ve fare ile kullanım kolaylığı (Enter ile arama, önerilerde seçim)```
 
 ---
 
@@ -30,23 +30,16 @@ Modern, karanlık (dark mode) tasarım ve kullanımı kolay şehir arama öneri 
 
 ---
 
-## Kurulum
+```## Kurulum
 
 1. Gerekli kütüphaneleri yükleyin:
 
-```bash
-pip install requests pillow
-## İletişim ve Destek
+bash
+pip install requests pillow```
+```## İletişim ve Destek
 
 Projeyle ilgili her türlü soru, öneri veya destek talebiniz için aşağıdaki kullanıcı ID’si üzerinden bana ulaşabilirsiniz:
 
 **Kullanıcı ID:** `814921102119010405`
 
 Lütfen mesaj atarken projenin adını belirtmeyi unutmayın, böylece hızlıca geri dönüş yapabilirim.
-
----
-
-Alternatif iletişim kanalları veya destek yöntemleri eklemek istersen, buraya ekleyebiliriz.
-
-## Ekran Görüntüsü
-
