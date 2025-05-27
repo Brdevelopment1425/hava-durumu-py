@@ -50,5 +50,3 @@ Alternatif iletişim kanalları veya destek yöntemleri eklemek istersen, buraya
 
 ## Ekran Görüntüsü
 
-[Ekran Görüntüsü](Ekran_Alintisi21.PNG)
-
