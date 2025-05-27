@@ -50,4 +50,4 @@ Alternatif iletişim kanalları veya destek yöntemleri eklemek istersen, buraya
 
 ## Ekran Görüntüsü
 
-![Hava Durumu Uygulaması Ekran Görüntüsü](images/Ekran_Alıntısı21.PNG)
+[Hava Durumu Uygulaması Ekran Görüntüsü](images/Ekran_Alıntısı21.PNG)
