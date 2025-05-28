@@ -5,7 +5,7 @@ from datetime import datetime
 from PIL import Image, ImageTk
 from io import BytesIO
 
-API_KEY = "b9da07a16aa636d440e521adfe3e7a24"
+API_KEY = ""
 
 class WeatherApp(tk.Tk):
     def __init__(self):
